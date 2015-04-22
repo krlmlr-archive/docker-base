@@ -1,3 +1,3 @@
-# r-test
+# r-wercker/base
 
-Docker images for testing my R packages, based on rocker/drd.
+Docker images for testing R packages on wercker, based on rocker/drd.

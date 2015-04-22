@@ -1,4 +1,4 @@
-# r-wercker/base
+# r-wercker-base
 
 Docker image for testing R packages on [wercker](http://wercker.com/), based on rocker/drd.
 
@@ -8,7 +8,7 @@ Docker image for testing R packages on [wercker](http://wercker.com/), based on 
 Create a file `wercker.yml` with the following contents:
 
 ```
-box: r-wercker/base
+box: krlmlr/r-wercker-base
 build:
   steps:
     - script:

@@ -1,3 +1,5 @@
+cran_packages:
+  devtools
 deps:
 gh_packages:
   hadley/testthat
@@ -5,4 +7,10 @@ gh_packages:
   jimhester/lintr
   krlmlr/staticdocs@devel
   rstudio/markdown
-cran_packages:
+apt:
+  ca-certificates
+  openssh-client
+  git
+  libcurl4-openssl-dev
+  libopenblas-dev
+  libxml2-dev

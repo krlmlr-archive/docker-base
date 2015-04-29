@@ -1,6 +1,9 @@
 # r-wercker-base
 
 Docker image for testing R packages on [wercker](http://wercker.com/), based on rocker/drd.
+Includes R in the current release, and R-devel (accessible via `RD` and `RDscript`).
+
+The `Dockerfile` contains machinery to install system and R dependencies via a simple configuration file.  The R dependencies are installed for both R and R-devel.
 
 
 ## Using this image

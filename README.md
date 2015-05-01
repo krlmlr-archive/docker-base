@@ -11,7 +11,7 @@ The `Dockerfile` contains machinery to install system and R dependencies via a s
 Create a file `wercker.yml` with the following contents:
 
 ```
-box: krlmlr/r-wercker-base
+box: rwercker/base
 build:
   steps:
     - script:

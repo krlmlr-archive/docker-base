@@ -1,9 +1,16 @@
 ## Emacs, make this -*- mode: sh; -*-
 
-## start with the rocker daily image
+########################################################
+##                                                    ##
+## If creating your own image, edit the two entries   ##
+## below, and the PACKAGES file                       ##
+##                                                    ##
+########################################################
+
+## Choose your base image, e.g., rwercker/base
 FROM rocker/drd:latest
 
-## This handle reaches Kirill
+## Edit maintainer information as appropritate
 MAINTAINER "Kirill Müller" krlmlr+github@mailbox.org
 
 ########################################################

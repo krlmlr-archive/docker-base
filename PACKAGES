@@ -7,7 +7,6 @@ gh_packages:
   jimhester/lintr
   krlmlr/staticdocs@devel
   rstudio/markdown
-  krlmlr/devtools@aspell
 apt:
   aspell
   ca-certificates

@@ -9,6 +9,7 @@ gh_packages:
   rstudio/markdown
 apt:
   aspell
+  aspell-en
   ca-certificates
   openssh-client
   git

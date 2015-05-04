@@ -7,7 +7,7 @@
 ##                                                    ##
 ########################################################
 
-## Choose your base image, e.g., rwercker/base
+## Choose your base image, e.g., rocker/drd:latest or rwercker/base:latest
 FROM rocker/drd:latest
 
 ## Edit maintainer information as appropritate

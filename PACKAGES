@@ -6,7 +6,7 @@ gh_packages:
   jimhester/covr
   jimhester/lintr
   krlmlr/staticdocs@devel
-  rstudio/markdown
+  rstudio/rmarkdown
 apt:
   aspell
   aspell-en

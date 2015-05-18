@@ -18,3 +18,5 @@ apt:
   libssl-dev/unstable
   libopenblas-dev
   libxml2-dev
+  pandoc
+  pandoc-citeproc

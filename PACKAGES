@@ -3,21 +3,7 @@ cran_packages:
 deps:
 gh_packages:
   hadley/testthat
-  jimhester/covr
-  jimhester/lintr
-  krlmlr/staticdocs@devel
-  rstudio/rmarkdown
 apt:
-  aspell
-  aspell-en
-  ca-certificates
-  openssh-client
-  git/unstable
   libcurl4-openssl-dev
   libssl1.0.0/unstable
   libssl-dev/unstable
-  libopenblas-dev
-  libxml2-dev/unstable
-  libxml2/unstable
-  pandoc
-  pandoc-citeproc

@@ -7,3 +7,5 @@ apt:
   libcurl4-openssl-dev
   libssl1.0.0/unstable
   libssl-dev/unstable
+  libxml2-dev/unstable
+  libxml2/unstable

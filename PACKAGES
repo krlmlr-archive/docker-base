@@ -16,6 +16,7 @@ apt:
   libcurl4-openssl-dev
   libssl1.0.0
   libssl-dev
+  libblas-dev
   libopenblas-dev
   libxml2-dev
   libxml2

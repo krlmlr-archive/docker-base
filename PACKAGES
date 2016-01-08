@@ -14,10 +14,10 @@ apt:
   openssh-client
   git/unstable
   libcurl4-openssl-dev
-  libssl1.0.0/unstable
-  libssl-dev/unstable
+  libssl1.0.0
+  libssl-dev
   libopenblas-dev
-  libxml2-dev/unstable
-  libxml2/unstable
+  libxml2-dev
+  libxml2
   pandoc
   pandoc-citeproc

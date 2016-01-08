@@ -12,7 +12,7 @@ apt:
   aspell-en
   ca-certificates
   openssh-client
-  git/unstable
+  git
   libcurl4-openssl-dev
   libssl1.0.0
   libssl-dev

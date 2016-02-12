@@ -1,5 +1,6 @@
 cran_packages:
   devtools
+  roxygen2
 deps:
 gh_packages:
   hadley/testthat

@@ -3,7 +3,7 @@ cran_packages:
   roxygen2
 deps:
 gh_packages:
-  hadley/testthat
+  krlmlr/testthat@develop
   jimhester/covr
   jimhester/lintr
   krlmlr/staticdocs@devel

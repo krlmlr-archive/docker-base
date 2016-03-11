@@ -4,7 +4,7 @@ cran_packages:
 deps:
 gh_packages:
   hadley/testthat
-  jimhester/covr
+  jimhester/covr#154
   jimhester/lintr
   krlmlr/staticdocs@devel
   rstudio/rmarkdown

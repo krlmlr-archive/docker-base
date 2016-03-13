@@ -3,6 +3,7 @@ cran_packages:
   roxygen2
 deps:
 gh_packages:
+  krlmlr/makeR@master3
   hadley/testthat
   jimhester/covr#154
   jimhester/lintr

@@ -5,7 +5,7 @@ deps:
 gh_packages:
   krlmlr/makeR@master3
   hadley/testthat
-  jimhester/covr
+  jimhester/covr@v2
   jimhester/lintr
   krlmlr/staticdocs@devel
   rstudio/rmarkdown

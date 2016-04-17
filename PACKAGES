@@ -1,11 +1,11 @@
 cran_packages:
   devtools
   roxygen2
+  covr
 deps:
 gh_packages:
   krlmlr/makeR@master3
-  hadley/testthat
-  jimhester/covr@v2
+  krlmlr/testthat@develop
   jimhester/lintr
   krlmlr/staticdocs@devel
   rstudio/rmarkdown

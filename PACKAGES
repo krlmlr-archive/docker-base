@@ -10,13 +10,14 @@ gh_packages:
   krlmlr/staticdocs@devel
   rstudio/rmarkdown
 apt:
+  libpng16-16
+  libssl1.0.2
   aspell
   aspell-en
   ca-certificates
   openssh-client
   git
   libcurl4-openssl-dev
-  libssl1.0.0
   libssl-dev
   libblas-dev/unstable
   libopenblas-dev
@@ -24,4 +25,3 @@ apt:
   libxml2
   pandoc
   pandoc-citeproc
-  libpng12-0
